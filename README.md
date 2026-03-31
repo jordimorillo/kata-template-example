@@ -245,3 +245,9 @@ MIT © Programador-Web.com
 3. Abre `src/index.ts` y empieza a programar
 
 **¡Mucha suerte! 💪**
+
+---
+
+## 👤 Autor
+
+**Jordi Morillo Sells** — [LinkedIn](https://www.linkedin.com/in/jordi-morillo-sells/)
